@@ -47,7 +47,7 @@ namespace Nop.Web.Controllers
     public partial class CommonController : BasePublicController
     {
         #region Fields
-
+        //123
         private readonly ICategoryService _categoryService;
         private readonly IProductService _productService;
         private readonly IManufacturerService _manufacturerService;

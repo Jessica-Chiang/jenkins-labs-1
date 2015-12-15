@@ -1,0 +1,9 @@
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\ShippingUSPS\Configure.cshtml
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\Users\jessicajiang\Source\Repos\jenkins-labs-1\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
